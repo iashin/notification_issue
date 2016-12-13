@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationIssue</string>
+
+    <string name="start_foreground_service_text">Start foreground service</string>
+    <string name="stop_foreground_service_text">Stop foreground service</string>
+    <string name="send_three_notifications_text">Send three notifications</string>
+</resources>
